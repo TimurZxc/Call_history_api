@@ -1,0 +1,3902 @@
+{
+    "call_history": [
+        {
+            "type": "incoming",
+            "app": "Telegram",
+            "timestamp": "2024-04-21T19:55:13.000+00:00",
+            "duration": 6913,
+            "status": "unknown",
+            "number": "-1805662534",
+            "name": "Твой новый наркотик💋"
+        },
+        {
+            "type": "incoming",
+            "app": "Telegram",
+            "timestamp": "2024-04-21T16:19:28.000+00:00",
+            "duration": 3708,
+            "status": "unknown",
+            "number": "-1805662534",
+            "name": "Твой новый наркотик💋"
+        },
+        {
+            "type": "incoming",
+            "app": "Telegram",
+            "timestamp": "2024-04-21T15:01:12.000+00:00",
+            "duration": 1486,
+            "status": "unknown",
+            "number": "-1805662534",
+            "name": "Твой новый наркотик💋"
+        },
+        {
+            "type": "incoming",
+            "app": "Telegram",
+            "timestamp": "2024-03-24T12:44:53.000+00:00",
+            "duration": 2921,
+            "status": "unknown",
+            "number": "",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "Telegram",
+            "timestamp": "2024-02-03T20:59:24.000+00:00",
+            "duration": 8278,
+            "status": "unknown",
+            "number": "",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "Telegram",
+            "timestamp": "2024-02-12T21:05:06.000+00:00",
+            "duration": 7173,
+            "status": "unknown",
+            "number": "",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "Telegram",
+            "timestamp": "2024-02-20T20:53:55.000+00:00",
+            "duration": 6594,
+            "status": "unknown",
+            "number": "",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "Telegram",
+            "timestamp": "2023-12-06T11:54:19.000+00:00",
+            "duration": 16219,
+            "status": "unknown",
+            "number": "",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "Telegram",
+            "timestamp": "2023-12-09T17:15:36.000+00:00",
+            "duration": 0,
+            "status": "unknown",
+            "number": "",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "Telegram",
+            "timestamp": "2023-12-09T14:27:26.000+00:00",
+            "duration": 4782,
+            "status": "unknown",
+            "number": "",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "Telegram",
+            "timestamp": "2024-08-23T10:47:58.000+00:00",
+            "duration": 2855,
+            "status": "unknown",
+            "number": "",
+            "name": ""
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-09-11T10:37:57.000+00:00",
+            "duration": 40,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-09-12T11:25:58.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-09-13T09:15:21.000+00:00",
+            "duration": 34,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-09-13T09:16:23.000+00:00",
+            "duration": 45,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-09-13T09:38:43.000+00:00",
+            "duration": 30,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-09-16T03:46:21.000+00:00",
+            "duration": 54,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-09-16T08:27:27.000+00:00",
+            "duration": 21,
+            "status": "Established",
+            "number": "+77473302082",
+            "name": "Тогжан Болатбековна"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-03-26T14:28:33.000+00:00",
+            "duration": 14,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-03-29T10:52:42.000+00:00",
+            "duration": 674,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-03-29T11:04:18.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-03-29T11:04:42.000+00:00",
+            "duration": 211,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-03-29T11:08:22.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-03-29T11:08:39.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-03-29T11:09:04.000+00:00",
+            "duration": 19,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-03-29T11:10:07.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-03-29T11:11:47.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-03-29T11:12:15.000+00:00",
+            "duration": 1773,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-03-29T11:43:20.000+00:00",
+            "duration": 1200,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-03-29T12:04:14.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-03-29T12:04:28.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-03-31T07:49:49.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-03-31T07:57:52.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-03-31T08:55:33.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-03-31T09:14:25.000+00:00",
+            "duration": 6,
+            "status": "Established",
+            "number": "+77780626622",
+            "name": ""
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-03-31T09:14:43.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77780626622",
+            "name": ""
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-03-31T09:15:06.000+00:00",
+            "duration": 29,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-03-31T09:15:44.000+00:00",
+            "duration": 13,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-03-31T09:16:07.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-03-31T11:25:34.000+00:00",
+            "duration": 69,
+            "status": "Established",
+            "number": "+77780620606",
+            "name": ""
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-01T12:48:13.000+00:00",
+            "duration": 12,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-01T13:01:06.000+00:00",
+            "duration": 11,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-02T04:50:43.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-02T13:56:20.000+00:00",
+            "duration": 23,
+            "status": "Established",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-03T03:32:42.000+00:00",
+            "duration": 53,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-03T05:20:13.000+00:00",
+            "duration": 71,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-03T12:53:37.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-03T12:54:00.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-03T12:54:01.000+00:00",
+            "duration": 32,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-03T13:36:54.000+00:00",
+            "duration": 44,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-03T13:48:57.000+00:00",
+            "duration": 21,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-03T13:49:33.000+00:00",
+            "duration": 6,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-04T05:19:48.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-04T13:37:57.000+00:00",
+            "duration": 9,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-05T14:19:43.000+00:00",
+            "duration": 48,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-05T14:32:17.000+00:00",
+            "duration": 14,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-09T04:37:26.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-09T04:38:09.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-09T04:42:55.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-09T04:44:01.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-09T04:45:23.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-09T04:47:04.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-09T04:50:11.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-09T05:25:20.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-09T06:26:33.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-09T06:40:05.000+00:00",
+            "duration": 177,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-09T12:26:24.000+00:00",
+            "duration": 19,
+            "status": "Established",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-09T13:10:24.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-09T13:11:04.000+00:00",
+            "duration": 77,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-09T13:12:43.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-09T13:14:05.000+00:00",
+            "duration": 20,
+            "status": "Established",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-10T12:51:07.000+00:00",
+            "duration": 16,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-10T12:51:46.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-10T12:51:48.000+00:00",
+            "duration": 20,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-10T17:04:46.000+00:00",
+            "duration": 16,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-11T04:21:20.000+00:00",
+            "duration": 57,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-11T08:00:47.000+00:00",
+            "duration": 23,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-15T13:39:46.000+00:00",
+            "duration": 14,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-15T13:45:07.000+00:00",
+            "duration": 33,
+            "status": "Established",
+            "number": "+77758739327",
+            "name": ".Аринк"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-16T12:00:18.000+00:00",
+            "duration": 42,
+            "status": "Established",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-16T12:01:41.000+00:00",
+            "duration": 12,
+            "status": "Established",
+            "number": "+77758739327",
+            "name": ".Аринк"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-16T12:02:11.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77758739327",
+            "name": ".Аринк"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-16T12:03:42.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77758739327",
+            "name": ".Аринк"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-16T13:20:30.000+00:00",
+            "duration": 24,
+            "status": "Established",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-17T06:49:36.000+00:00",
+            "duration": 11,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-17T12:49:58.000+00:00",
+            "duration": 17,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-18T04:55:04.000+00:00",
+            "duration": 28,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-18T06:15:01.000+00:00",
+            "duration": 21,
+            "status": "Established",
+            "number": "+4961427080887",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-18T06:15:01.000+00:00",
+            "duration": 21,
+            "status": "Established",
+            "number": "+4961427080887",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-18T06:15:01.000+00:00",
+            "duration": 21,
+            "status": "Established",
+            "number": "+4961427080887",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-18T06:15:01.000+00:00",
+            "duration": 21,
+            "status": "Established",
+            "number": "+4961427080887",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-18T06:15:01.000+00:00",
+            "duration": 21,
+            "status": "Established",
+            "number": "+4961427080887",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-18T06:15:01.000+00:00",
+            "duration": 21,
+            "status": "Established",
+            "number": "+4961427080887",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-18T06:15:01.000+00:00",
+            "duration": 21,
+            "status": "Established",
+            "number": "+4961427080887",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-18T06:15:01.000+00:00",
+            "duration": 21,
+            "status": "Established",
+            "number": "+4961427080887",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-18T06:15:01.000+00:00",
+            "duration": 21,
+            "status": "Established",
+            "number": "+4961427080887",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-18T06:15:01.000+00:00",
+            "duration": 21,
+            "status": "Established",
+            "number": "+4961427080887",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-18T06:15:01.000+00:00",
+            "duration": 21,
+            "status": "Established",
+            "number": "+4961427080887",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-18T06:15:01.000+00:00",
+            "duration": 21,
+            "status": "Established",
+            "number": "+4961427080887",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-18T06:15:01.000+00:00",
+            "duration": 21,
+            "status": "Established",
+            "number": "+4961427080887",
+            "name": ""
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-18T13:37:17.000+00:00",
+            "duration": 11,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-19T07:37:07.000+00:00",
+            "duration": 6,
+            "status": "Established",
+            "number": "+77473302082",
+            "name": "Тогжан Болатбековна"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-20T07:16:08.000+00:00",
+            "duration": 30,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-20T12:19:26.000+00:00",
+            "duration": 8,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-20T12:20:03.000+00:00",
+            "duration": 2,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-20T12:20:53.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-20T12:21:04.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-20T12:22:04.000+00:00",
+            "duration": 511,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-20T12:30:42.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-20T12:30:47.000+00:00",
+            "duration": 111,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-20T12:33:07.000+00:00",
+            "duration": 994,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-20T12:49:53.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-20T12:50:19.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-20T13:12:33.000+00:00",
+            "duration": 19,
+            "status": "Established",
+            "number": "+77087805129",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-20T13:20:24.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-22T12:48:15.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77087805129",
+            "name": ""
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-22T12:48:24.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-22T12:48:31.000+00:00",
+            "duration": 10,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-22T16:44:47.000+00:00",
+            "duration": 11,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-23T06:56:38.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-23T13:52:33.000+00:00",
+            "duration": 18,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-24T02:42:17.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77776841006",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-24T02:44:09.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77776841006",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-24T02:46:10.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77776841006",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-24T02:53:05.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77776841006",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-24T12:47:37.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-24T12:50:13.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-24T12:52:16.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-25T07:32:38.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-25T07:33:23.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-25T08:14:16.000+00:00",
+            "duration": 39,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-26T11:58:59.000+00:00",
+            "duration": 29,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-26T12:56:53.000+00:00",
+            "duration": 10,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-04-29T13:39:06.000+00:00",
+            "duration": 33,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-29T13:40:09.000+00:00",
+            "duration": 2,
+            "status": "Established",
+            "number": "+77758739327",
+            "name": ".Аринк"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-04-30T13:49:21.000+00:00",
+            "duration": 13,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-03T12:48:12.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-04T05:42:08.000+00:00",
+            "duration": 5,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-04T05:51:53.000+00:00",
+            "duration": 14,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-04T07:08:31.000+00:00",
+            "duration": 83,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-08T07:09:50.000+00:00",
+            "duration": 3,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-08T07:10:23.000+00:00",
+            "duration": 22,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-08T08:33:31.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-08T09:11:02.000+00:00",
+            "duration": 12,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-08T09:23:14.000+00:00",
+            "duration": 7,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-08T09:24:14.000+00:00",
+            "duration": 2,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-08T09:24:38.000+00:00",
+            "duration": 9,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-08T09:27:25.000+00:00",
+            "duration": 16,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-08T09:28:29.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-08T09:31:06.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-08T09:33:28.000+00:00",
+            "duration": 2,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-08T10:14:16.000+00:00",
+            "duration": 9,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-08T10:17:33.000+00:00",
+            "duration": 13,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-08T10:22:09.000+00:00",
+            "duration": 10,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-08T10:22:39.000+00:00",
+            "duration": 283,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-08T10:27:55.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-08T10:28:12.000+00:00",
+            "duration": 7,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-08T10:30:37.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-08T10:28:36.000+00:00",
+            "duration": 205,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-08T10:32:25.000+00:00",
+            "duration": 15,
+            "status": "Established",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-08T10:38:28.000+00:00",
+            "duration": 43,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-08T10:58:56.000+00:00",
+            "duration": 24,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-08T11:03:05.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-08T12:23:04.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-13T12:50:32.000+00:00",
+            "duration": 15,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-14T13:02:44.000+00:00",
+            "duration": 17,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-14T13:13:08.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77758739327",
+            "name": ".Аринк"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-14T13:52:15.000+00:00",
+            "duration": 61,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-14T17:08:58.000+00:00",
+            "duration": 26,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-15T05:05:54.000+00:00",
+            "duration": 85,
+            "status": "Established",
+            "number": "+77786359822",
+            "name": "Бвбушка"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-15T05:07:50.000+00:00",
+            "duration": 18,
+            "status": "Established",
+            "number": "+77786359822",
+            "name": "Бвбушка"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-15T06:42:51.000+00:00",
+            "duration": 3,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-15T06:43:41.000+00:00",
+            "duration": 35,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-15T09:27:58.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-15T12:47:56.000+00:00",
+            "duration": 11,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-15T12:49:31.000+00:00",
+            "duration": 26,
+            "status": "Established",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-15T13:24:06.000+00:00",
+            "duration": 13,
+            "status": "Established",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-15T13:24:57.000+00:00",
+            "duration": 79,
+            "status": "Established",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-15T13:33:22.000+00:00",
+            "duration": 8,
+            "status": "Established",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-15T13:57:19.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-15T14:05:50.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-16T05:23:29.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-16T13:38:21.000+00:00",
+            "duration": 22,
+            "status": "Established",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-17T13:40:32.000+00:00",
+            "duration": 18,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-17T13:41:10.000+00:00",
+            "duration": 2,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-17T13:41:44.000+00:00",
+            "duration": 1,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-19T07:57:46.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-19T07:58:25.000+00:00",
+            "duration": 10,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-20T13:45:08.000+00:00",
+            "duration": 11,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-21T04:53:41.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-21T13:38:13.000+00:00",
+            "duration": 43,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-21T14:43:33.000+00:00",
+            "duration": 23,
+            "status": "Established",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-22T07:06:57.000+00:00",
+            "duration": 31,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-22T07:10:39.000+00:00",
+            "duration": 15,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-22T09:21:07.000+00:00",
+            "duration": 20,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-23T11:11:43.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-23T11:11:56.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-23T11:13:45.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-23T11:14:54.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-23T11:15:01.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-23T11:16:06.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-23T11:18:28.000+00:00",
+            "duration": 52,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-23T11:29:00.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-23T11:28:17.000+00:00",
+            "duration": 43,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-23T11:29:26.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-23T12:35:44.000+00:00",
+            "duration": 40,
+            "status": "Established",
+            "number": "+77778071614",
+            "name": ""
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-23T16:50:38.000+00:00",
+            "duration": 741,
+            "status": "Established",
+            "number": "+77778071614",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-24T07:13:15.000+00:00",
+            "duration": 0,
+            "status": "Rejected",
+            "number": "+77719365425",
+            "name": ""
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-24T16:09:24.000+00:00",
+            "duration": 9,
+            "status": "Established",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-28T04:29:05.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-28T04:34:57.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-28T08:52:01.000+00:00",
+            "duration": 136,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-28T08:55:14.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-28T13:31:59.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-29T03:20:32.000+00:00",
+            "duration": 49,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-29T04:04:37.000+00:00",
+            "duration": 52,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-29T04:10:03.000+00:00",
+            "duration": 21,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-31T08:46:08.000+00:00",
+            "duration": 101,
+            "status": "Established",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-31T09:15:18.000+00:00",
+            "duration": 31,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-31T09:16:16.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-31T09:16:30.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-31T09:35:11.000+00:00",
+            "duration": 5,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-31T10:16:04.000+00:00",
+            "duration": 41,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-05-31T10:24:23.000+00:00",
+            "duration": 63,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-05-31T10:42:55.000+00:00",
+            "duration": 4,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-06-01T06:54:13.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-06-04T03:13:49.000+00:00",
+            "duration": 60,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-06-04T09:06:56.000+00:00",
+            "duration": 29,
+            "status": "Established",
+            "number": "+77776841006",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-04T09:08:30.000+00:00",
+            "duration": 9,
+            "status": "Established",
+            "number": "+77776841006",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-06-06T03:39:36.000+00:00",
+            "duration": 9,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-07T05:09:28.000+00:00",
+            "duration": 40,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-06-07T05:16:28.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-07T05:28:21.000+00:00",
+            "duration": 29,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-06-07T08:31:45.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-06-07T08:32:03.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-06-07T08:32:23.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-06-07T08:32:32.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-06-07T08:32:42.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77776841006",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-06-07T08:33:25.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-06-07T08:33:36.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-06-07T08:33:56.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-07T13:02:19.000+00:00",
+            "duration": 252,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-08T08:06:37.000+00:00",
+            "duration": 31,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-09T05:46:53.000+00:00",
+            "duration": 13,
+            "status": "Established",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-06-10T03:44:42.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-10T03:45:36.000+00:00",
+            "duration": 50,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-10T05:26:27.000+00:00",
+            "duration": 75,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-10T08:07:08.000+00:00",
+            "duration": 25,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-19T07:21:18.000+00:00",
+            "duration": 18,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-19T07:22:08.000+00:00",
+            "duration": 56,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-06-20T08:54:35.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-24T04:56:42.000+00:00",
+            "duration": 170,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-07-14T11:48:29.000+00:00",
+            "duration": 20,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-07-23T11:40:23.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "2344051",
+            "name": ""
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-07-23T11:40:34.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "2344051",
+            "name": ""
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-07-24T13:03:40.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-07-24T14:23:57.000+00:00",
+            "duration": 13,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-07-24T14:28:10.000+00:00",
+            "duration": 46,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-07-27T06:42:33.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-07-27T12:11:15.000+00:00",
+            "duration": 23,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-08-06T09:14:30.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-08-08T07:56:42.000+00:00",
+            "duration": 15,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-08-09T13:10:36.000+00:00",
+            "duration": 31,
+            "status": "Established",
+            "number": "+77470298198",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-08-10T14:00:09.000+00:00",
+            "duration": 17,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-08-10T14:02:08.000+00:00",
+            "duration": 16,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-08-10T14:13:18.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-08-10T14:13:59.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-08-11T13:49:49.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-08-14T10:46:40.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-08-16T12:04:49.000+00:00",
+            "duration": 10,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-08-20T11:16:37.000+00:00",
+            "duration": 25,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-08-25T19:00:10.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-09-02T07:10:42.000+00:00",
+            "duration": 28,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-09-02T07:13:16.000+00:00",
+            "duration": 10,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-09-02T07:13:43.000+00:00",
+            "duration": 13,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-09-02T07:18:54.000+00:00",
+            "duration": 44,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-09-02T08:20:28.000+00:00",
+            "duration": 22,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-09-03T09:06:58.000+00:00",
+            "duration": 17,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-09-03T09:07:36.000+00:00",
+            "duration": 0,
+            "status": "Rejected",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-09-03T09:07:56.000+00:00",
+            "duration": 0,
+            "status": "Rejected",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-09-03T09:14:27.000+00:00",
+            "duration": 27,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-09-04T08:19:35.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-09-05T09:17:11.000+00:00",
+            "duration": 22,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-09-05T10:43:27.000+00:00",
+            "duration": 80,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-09-06T08:27:34.000+00:00",
+            "duration": 56,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-09-06T09:44:28.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-09-07T09:39:16.000+00:00",
+            "duration": 24,
+            "status": "Established",
+            "number": "+77002507355",
+            "name": "besedin sergey"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-09-07T09:40:51.000+00:00",
+            "duration": 53,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-09-07T09:44:28.000+00:00",
+            "duration": 10,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-09-07T09:45:04.000+00:00",
+            "duration": 12,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-09-09T09:04:39.000+00:00",
+            "duration": 17,
+            "status": "Established",
+            "number": "+77022919309",
+            "name": "Марго"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-09-10T07:52:32.000+00:00",
+            "duration": 36,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-09-10T08:12:53.000+00:00",
+            "duration": 43,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-09-10T09:12:46.000+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "+77786359822",
+            "name": "Бвбушка"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-09-10T09:13:34.000+00:00",
+            "duration": 18,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "unknown",
+            "timestamp": "2024-09-11T09:17:28.000+00:00",
+            "duration": 19,
+            "status": "Established",
+            "number": "+77013495001",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-23T11:27:05.093+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-19T10:28:11.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-08-11T14:45:44.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77002507355@s.whatsapp.net",
+            "name": "Батя"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-25T05:10:53.000+00:00",
+            "duration": 3143,
+            "status": "Established",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-03T19:22:24.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-08T14:41:14.000+00:00",
+            "duration": 21,
+            "status": "Established",
+            "number": "77077530370@s.whatsapp.net",
+            "name": "Lina"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-08-09T13:45:56.000+00:00",
+            "duration": 40,
+            "status": "Established",
+            "number": "77771127498@s.whatsapp.net",
+            "name": "Равия"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-17T12:30:34.000+00:00",
+            "duration": 36,
+            "status": "Established",
+            "number": "77713936621@s.whatsapp.net",
+            "name": "Софа"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-14T10:22:15.697+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-07-31T07:10:15.984+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-07T08:30:53.198+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-28T14:01:44.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-02T12:05:36.663+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-29T02:59:48.000+00:00",
+            "duration": 19,
+            "status": "Missed",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-07T17:57:13.208+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-15T05:01:22.819+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-31T09:40:17.000+00:00",
+            "duration": 17,
+            "status": "Established",
+            "number": "77770401120@s.whatsapp.net",
+            "name": "Пиздюк"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-16T05:21:38.000+00:00",
+            "duration": 61,
+            "status": "Missed",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-16T05:19:14.000+00:00",
+            "duration": 100,
+            "status": "Missed",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-09-01T14:32:44.514+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77013495001@s.whatsapp.net",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-23T04:45:16.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77786359822@s.whatsapp.net",
+            "name": "Бвбушка"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-31T09:16:49.690+00:00",
+            "duration": 21,
+            "status": "Established",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-04T07:58:26.705+00:00",
+            "duration": 43,
+            "status": "Established",
+            "number": "77013495001@s.whatsapp.net",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-21T07:30:22.000+00:00",
+            "duration": 427,
+            "status": "Established",
+            "number": "77013495001@s.whatsapp.net",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-08T10:47:35.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-08-20T14:51:25.000+00:00",
+            "duration": 27,
+            "status": "Established",
+            "number": "77002507355@s.whatsapp.net",
+            "name": "Батя"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-04T12:55:39.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-02T04:54:04.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77786359822@s.whatsapp.net",
+            "name": "Бвбушка"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-24T06:59:58.204+00:00",
+            "duration": 536,
+            "status": "Established",
+            "number": "77013495001@s.whatsapp.net",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-23T17:32:09.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-03-30T06:18:34.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-15T05:08:21.962+00:00",
+            "duration": 160,
+            "status": "Established",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-02T11:55:19.000+00:00",
+            "duration": 12,
+            "status": "Established",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-14T06:17:43.000+00:00",
+            "duration": 106,
+            "status": "Established",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-02T09:51:57.000+00:00",
+            "duration": 14,
+            "status": "Established",
+            "number": "77771127498@s.whatsapp.net",
+            "name": "Равия"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-07T09:00:31.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77776841006@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-20T16:00:48.000+00:00",
+            "duration": 4,
+            "status": "Established",
+            "number": "77013495001@s.whatsapp.net",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-08T03:13:56.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77776841006@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-18T06:09:42.000+00:00",
+            "duration": 163,
+            "status": "Established",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-16T04:34:10.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77786359822@s.whatsapp.net",
+            "name": "Бвбушка"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-17T12:29:09.000+00:00",
+            "duration": 0,
+            "status": "Rejected",
+            "number": "77713936621@s.whatsapp.net",
+            "name": "Софа"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-08-20T07:39:23.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77776841006@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-03T16:03:20.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-20T12:50:27.084+00:00",
+            "duration": 1080,
+            "status": "Established",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-21T04:54:06.013+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77013495001@s.whatsapp.net",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-31T09:15:00.893+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-19T08:10:47.727+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-28T09:07:59.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-14T05:54:32.000+00:00",
+            "duration": 235,
+            "status": "Established",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-30T05:31:10.000+00:00",
+            "duration": 31,
+            "status": "Established",
+            "number": "79056776503@s.whatsapp.net",
+            "name": "Беседин Александр"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-29T09:10:49.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-30T10:57:15.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "79056776503@s.whatsapp.net",
+            "name": "Беседин Александр"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-15T05:08:07.000+00:00",
+            "duration": 0,
+            "status": "Rejected",
+            "number": "77786359822@s.whatsapp.net",
+            "name": "Бвбушка"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-07-24T13:03:00.636+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-23T05:06:59.000+00:00",
+            "duration": 2166,
+            "status": "Established",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-08-09T13:18:35.000+00:00",
+            "duration": 82,
+            "status": "Established",
+            "number": "77013495001@s.whatsapp.net",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-16T04:32:53.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77786359822@s.whatsapp.net",
+            "name": "Бвбушка"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-07T17:55:26.958+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-29T03:40:11.450+00:00",
+            "duration": 355,
+            "status": "Established",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-12T12:04:22.997+00:00",
+            "duration": 833,
+            "status": "Established",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-08T10:46:42.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-07-23T12:09:24.844+00:00",
+            "duration": 68,
+            "status": "Established",
+            "number": "77013495001@s.whatsapp.net",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-29T08:04:44.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77013495001@s.whatsapp.net",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-08-14T11:03:15.000+00:00",
+            "duration": 48,
+            "status": "Established",
+            "number": "77770401120@s.whatsapp.net",
+            "name": "Пиздюк"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-11T08:00:25.945+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77013495001@s.whatsapp.net",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-23T17:13:26.542+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-11T08:02:25.000+00:00",
+            "duration": 22,
+            "status": "Established",
+            "number": "77758739327@s.whatsapp.net",
+            "name": ".Арина"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-16T13:32:21.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77713936621@s.whatsapp.net",
+            "name": "Софа"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-08T11:35:36.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-03-30T06:19:37.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-07T17:53:53.431+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-14T10:19:54.478+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-23T17:12:31.444+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-17T17:48:03.787+00:00",
+            "duration": 48,
+            "status": "Established",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-23T06:37:21.000+00:00",
+            "duration": 69,
+            "status": "Established",
+            "number": "77013495001@s.whatsapp.net",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-08T09:35:30.314+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-24T02:47:15.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77776841006@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-20T16:13:47.532+00:00",
+            "duration": 23,
+            "status": "Established",
+            "number": "77013495001@s.whatsapp.net",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-02T04:51:55.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77786359822@s.whatsapp.net",
+            "name": "Бвбушка"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-19T08:11:46.251+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-23T17:32:55.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-07-22T13:23:56.719+00:00",
+            "duration": 35,
+            "status": "Established",
+            "number": "77013495001@s.whatsapp.net",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-30T06:42:13.350+00:00",
+            "duration": 0,
+            "status": "Rejected",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-02T12:15:02.000+00:00",
+            "duration": 32,
+            "status": "Established",
+            "number": "77771127498@s.whatsapp.net",
+            "name": "Равия"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-23T17:45:07.823+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-08T10:46:24.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-12T11:42:50.000+00:00",
+            "duration": 1263,
+            "status": "Established",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-03-30T08:39:55.000+00:00",
+            "duration": 2,
+            "status": "Established",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-02T12:08:12.000+00:00",
+            "duration": 55,
+            "status": "Established",
+            "number": "77771127498@s.whatsapp.net",
+            "name": "Равия"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-06T11:17:36.000+00:00",
+            "duration": 0,
+            "status": "Rejected",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-03-30T06:19:25.842+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-21T07:29:24.000+00:00",
+            "duration": 0,
+            "status": "Rejected",
+            "number": "77013495001@s.whatsapp.net",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-23T17:13:20.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-29T03:34:44.206+00:00",
+            "duration": 65,
+            "status": "Established",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-23T17:13:26.000+00:00",
+            "duration": 1136,
+            "status": "Established",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-08T03:14:45.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77776841006@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-02T12:03:32.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77771127498@s.whatsapp.net",
+            "name": "Равия"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-06T06:25:41.676+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-31T09:32:45.000+00:00",
+            "duration": 46,
+            "status": "Established",
+            "number": "77770401120@s.whatsapp.net",
+            "name": "Пиздюк"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-08-05T12:07:39.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77770401120@s.whatsapp.net",
+            "name": "Пиздюк"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-25T05:01:29.000+00:00",
+            "duration": 1028,
+            "status": "Established",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-08-08T08:01:44.529+00:00",
+            "duration": 16,
+            "status": "Established",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-15T05:02:43.677+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-16T13:57:26.196+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-12T12:19:02.840+00:00",
+            "duration": 229,
+            "status": "Established",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-28T04:31:55.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77786359822@s.whatsapp.net",
+            "name": "Бвбушка"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-08-08T07:55:51.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-01T06:48:57.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77002507355@s.whatsapp.net",
+            "name": "Батя"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-02T15:04:02.135+00:00",
+            "duration": 82,
+            "status": "Established",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-31T09:13:41.000+00:00",
+            "duration": 52,
+            "status": "Established",
+            "number": "77770401120@s.whatsapp.net",
+            "name": "Пиздюк"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-08-07T14:28:45.000+00:00",
+            "duration": 42,
+            "status": "Established",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-02T04:53:00.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77786359822@s.whatsapp.net",
+            "name": "Бвбушка"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-23T17:32:33.582+00:00",
+            "duration": 0,
+            "status": "NotEstablishedUnknownReason",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-08-05T12:06:44.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77770401120@s.whatsapp.net",
+            "name": "Пиздюк"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-08T18:28:44.000+00:00",
+            "duration": 73,
+            "status": "Established",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-23T17:35:44.557+00:00",
+            "duration": 1345,
+            "status": "Established",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-20T16:01:18.000+00:00",
+            "duration": 14,
+            "status": "Established",
+            "number": "77013495001@s.whatsapp.net",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-09-05T10:41:44.388+00:00",
+            "duration": 50,
+            "status": "Established",
+            "number": "77013495001@s.whatsapp.net",
+            "name": "Мама ❤"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-08-07T14:19:58.000+00:00",
+            "duration": 29,
+            "status": "Established",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-30T06:42:40.000+00:00",
+            "duration": 185,
+            "status": "Established",
+            "number": "79056776503@s.whatsapp.net",
+            "name": "Беседин Александр"
+        },
+        {
+            "type": "outgoing",
+            "app": "WhatsApp",
+            "timestamp": "2024-09-06T09:43:28.213+00:00",
+            "duration": 0,
+            "status": "Rejected",
+            "number": "77020258799@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-04-02T13:49:40.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-28T14:01:51.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77470298198@s.whatsapp.net",
+            "name": ">⁠▽⁠<"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-05-01T06:49:52.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77002507355@s.whatsapp.net",
+            "name": "Батя"
+        },
+        {
+            "type": "incoming",
+            "app": "WhatsApp",
+            "timestamp": "2024-06-07T09:02:07.000+00:00",
+            "duration": 0,
+            "status": "Missed",
+            "number": "77776841006@s.whatsapp.net",
+            "name": "Саша"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-07T09:02:07.000+00:00",
+            "duration": 23,
+            "status": "Established",
+            "number": "77172509933",
+            "name": "Test"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-07T09:02:07.000+00:00",
+            "duration": 23,
+            "status": "Established",
+            "number": "77172509933",
+            "name": "Test"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-07T09:02:07.000+00:00",
+            "duration": 23,
+            "status": "Established",
+            "number": "77172509933",
+            "name": "Test"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-07T09:02:07.000+00:00",
+            "duration": 23,
+            "status": "Established",
+            "number": "77172509933",
+            "name": "Test"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-07T09:02:07.000+00:00",
+            "duration": 23,
+            "status": "Established",
+            "number": "77172509933",
+            "name": "Test"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-07T09:02:07.000+00:00",
+            "duration": 23,
+            "status": "Established",
+            "number": "77172509933",
+            "name": "Test"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-07T09:02:07.000+00:00",
+            "duration": 23,
+            "status": "Established",
+            "number": "77172509933",
+            "name": "Test"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-07T09:02:07.000+00:00",
+            "duration": 23,
+            "status": "Established",
+            "number": "77172509933",
+            "name": "Test"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-07T09:02:07.000+00:00",
+            "duration": 23,
+            "status": "Established",
+            "number": "77172509933",
+            "name": "Test"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-07T09:02:07.000+00:00",
+            "duration": 23,
+            "status": "Established",
+            "number": "77172509933",
+            "name": "Test"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-07T09:02:07.000+00:00",
+            "duration": 23,
+            "status": "Established",
+            "number": "77172509933",
+            "name": "Test"
+        },
+        {
+            "type": "incoming",
+            "app": "unknown",
+            "timestamp": "2024-06-07T09:02:07.000+00:00",
+            "duration": 23,
+            "status": "Established",
+            "number": "77172509933",
+            "name": "Test"
+        }
+    ]
+
+}
