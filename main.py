@@ -12,11 +12,12 @@ app = FastAPI(debug=True, port=8030)
 class Filters(BaseModel):
     type: Optional[str] = None
     app: Optional[str] = None
-    number: Optional[str] = None
-    duration: Optional[float] = None
-    timestamp: Optional[str] = None
-    status: Optional[str] = None
-    name: Optional[str] = None
+    phone_number: Optional[str] = None
+    # duration: Optional[float] = None
+    start_time: Optional[str] = None
+    end_time: Optional[str] = None
+    # status: Optional[str] = None
+    # name: Optional[str] = None
 
 class Call(BaseModel):
     type: Optional[str] = None
@@ -29,6 +30,7 @@ class Call(BaseModel):
 
 class CallHistory(BaseModel):
     call_history: List[Call]
+    filters: Filters
 
 @app.post("/")
 def read_root(data: CallHistory):
@@ -38,16 +40,15 @@ def read_root(data: CallHistory):
     return statistics
 
 @app.post("/filters/")
-def filtered_data(filters: Filters):
+def filtered_data(data: CallHistory):
     test_database_path = 'test_database.json'
     with open(test_database_path, 'r', encoding='utf-8') as file:
         test_database = json.load(file)
     with open('test_operator_database.json', 'r', encoding='utf-8') as file:
-        data = json.load(file)
-    abonnents = data["abonnents"]
-    with open('converted_call_history.json', 'r', encoding='utf-8') as file:    
-        data = json.load(file)
-    calls = data["call_history"]
+        operator_data = json.load(file)
+    abonnents = operator_data["abonnents"]
+    calls = data.model_dump().get("call_history")
+    filters = data.model_dump().get("filters")
     abonnent = None
     country = None
     prefix = None
@@ -62,5 +63,7 @@ def filtered_data(filters: Filters):
         # operator = identify_operator_by_prefix(remaining_number, test_database.get("operator_prefixes").get(prefix))
         operator = "test"
         print(country,"|", operator)
+    print(filters)
     statistics = statistics_generator(calls, filters)
+    chart_generation(statistics)
     return statistics
