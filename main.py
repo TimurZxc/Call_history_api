@@ -31,12 +31,14 @@ class Call(BaseModel):
 class CallHistory(BaseModel):
     call_history: List[Call]
     filters: Filters
+    language: Optional[str]
 
 @app.post("/")
 def read_root(data: CallHistory):
     calls = data.model_dump().get("call_history")
+    language = data.model_dump().get("language")
     statistics = statistics_generator(calls)
-    chart_generation(statistics)
+    chart_generation(statistics, language)
     return statistics
 
 @app.post("/filters/")
@@ -49,6 +51,7 @@ def filtered_data(data: CallHistory):
     abonnents = operator_data["abonnents"]
     calls = data.model_dump().get("call_history")
     filters = data.model_dump().get("filters")
+    language = data.model_dump().get("language")
     abonnent = None
     country = None
     prefix = None
@@ -63,7 +66,6 @@ def filtered_data(data: CallHistory):
         # operator = identify_operator_by_prefix(remaining_number, test_database.get("operator_prefixes").get(prefix))
         operator = "test"
         print(country,"|", operator)
-    print(filters)
     statistics = statistics_generator(calls, filters)
-    chart_generation(statistics)
+    chart_generation(statistics, language)
     return statistics

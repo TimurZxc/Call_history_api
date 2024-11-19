@@ -3,7 +3,67 @@ import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
-def chart_generation(stats):
+def chart_generation(stats, language='ru'):
+    translations = {
+        'eng': {
+            'bar_chart_title': 'Incoming vs Outgoing Calls (Bar Chart)',
+            'pie_chart_title': 'Incoming vs Outgoing Calls (Pie Chart)',
+            'average_duration_title': 'Average Call Duration Statistics',
+            'stacked_bar_title': 'Call Apps Usage (Stacked Bar Chart)',
+            'app_pie_chart_title': 'Call Apps Usage (Pie Chart)',
+            'key_contacts_bar_title': 'Top 10 Key Contacts by Number of Calls (Bar Chart)',
+            'key_contacts_pie_title': 'Top 10 Key Contacts by Number of Calls (Pie Chart)',
+            'heatmap_title': 'Most Active Periods of Communication (Heatmap)',
+            'line_chart_title': 'Total Calls per Day (Line Chart)',
+            'country_donut_title': 'Calls by Country (Donut Chart)',
+            'city_donut_title': 'Calls by City (Donut Chart)',
+            'xaxis_calls': 'Number of Calls',
+            'xaxis_date': 'Date',
+            'yaxis_contacts': 'Contacts',
+            'xaxis_time': 'Time of Day',
+            'yaxis_duration': 'Average Duration (seconds)',
+            'xaxis_apps': 'Apps',
+            'xaxis_app': 'App',
+            'xaxis_call_type': 'Сall Type',
+            'xaxis_calls_incoming': 'Incoming Calls',
+            'xaxis_calls_outgoing': 'Outgoing Calls',
+            'xaxis_calls_total': 'Total Calls',
+            'xaxis_calls_total': 'Total Calls',
+            'index': 'index',
+            'calls': 'Сalls',
+            'city': 'city',
+            'country':'Country',
+        },
+        'ru': {
+            'bar_chart_title': 'Входящие и исходящие звонки (Гистограмма)',
+            'pie_chart_title': 'Входящие и исходящие звонки (Круговая диаграмма)',
+            'average_duration_title': 'Средняя длительность звонков',
+            'stacked_bar_title': 'Использование приложений для звонков (Сложенная гистограмма)',
+            'app_pie_chart_title': 'Использование приложений для звонков (Круговая диаграмма)',
+            'key_contacts_bar_title': 'Топ-10 ключевых контактов по количеству звонков',
+            'key_contacts_pie_title': 'Топ-10 ключевых контактов (Круговая диаграмма)',
+            'heatmap_title': 'Активные периоды общения (Тепловая карта)',
+            'line_chart_title': 'Общее количество звонков в день (Линейный график)',
+            'country_donut_title': 'Звонки по странам (Круговая диаграмма)',
+            'city_donut_title': 'Звонки по городам (Круговая диаграмма)',
+            'xaxis_calls': 'Количество звонков',
+            'xaxis_date': 'Дата',
+            'yaxis_contacts': 'Контакты',
+            'xaxis_time': 'Время суток',
+            'yaxis_duration': 'Средняя длительность (секунды)',
+            'xaxis_apps': 'Приложения',
+            'xaxis_app': 'Приложение',
+            'xaxis_call_type': 'Тип звонка',
+            'xaxis_calls_incoming': 'Входящие звонки',
+            'xaxis_calls_outgoing': 'Исходящие звонки',
+            'xaxis_calls_total': 'Все звонки',
+            'index': 'индекс',
+            'calls': 'Звонки',
+            'city': 'Город',
+            'country': 'Страна',
+        }
+    }
+    text = translations[language]
     figures = []
     titles = []
     specs = []
@@ -17,15 +77,15 @@ def chart_generation(stats):
 
     # 1. Incoming vs Outgoing Calls (Bar Chart)
     data = {
-        'Call Type': ['Incoming', 'Outgoing'],
-        'Number of Calls': [stats['incoming'], stats['outgoing']]
+        text['xaxis_call_type']: [text['xaxis_calls_incoming'], text['xaxis_calls_outgoing']],
+        text['xaxis_calls']: [stats['incoming'], stats['outgoing']]
     }
     df = pd.DataFrame(data)
-    fig1 = px.bar(df, x='Call Type', y='Number of Calls', color='Call Type',
+    fig1 = px.bar(df, x=text['xaxis_call_type'], y=text['xaxis_calls'], color=text['xaxis_call_type'],
                   color_discrete_sequence=['skyblue', 'salmon'])
     fig1.update_layout(
-        xaxis_title='Call Type',
-        yaxis_title='Number of Calls',
+        xaxis_title=text['xaxis_call_type'],
+        yaxis_title=text['xaxis_calls'],
         title_text='',
         xaxis_tickfont_size=16,
         yaxis_tickfont_size=16,
@@ -34,21 +94,21 @@ def chart_generation(stats):
         showlegend=False
     )
     figures.append(fig1)
-    titles.append('Incoming vs Outgoing Calls (Bar Chart)')
+    titles.append(text['bar_chart_title'])
 
     # Pie chart
-    fig2 = px.pie(df, values='Number of Calls', names='Call Type',
-                  color='Call Type',
+    fig2 = px.pie(df, values=text['xaxis_calls'], names=text['xaxis_call_type'],
+                  color=text['xaxis_call_type'],
                   hole=.3,
                   color_discrete_sequence=['skyblue', 'salmon'])
     fig2.update_traces(textposition='inside',
                        texttemplate='%{percent:.1%}<br>(%{value})')
     fig2.update_layout(
         title_text='',
-        legend_title_text='Call Type',
+        legend_title_text=text['xaxis_call_type'],
     )
     figures.append(fig2)
-    titles.append('Incoming vs Outgoing Calls (Pie Chart)')
+    titles.append(text['pie_chart_title'])
 
     # 2. Average Call Duration Statistics (Bar Chart)
     call_durations = [
@@ -56,17 +116,17 @@ def chart_generation(stats):
         stats['call_duration']['outgoing_calls']['average_duration'],
         stats['call_duration']['total_calls']['average_duration']
     ]
-    labels = ['Incoming Calls', 'Outgoing Calls', 'Total Calls']
+    labels = [text['xaxis_calls_incoming'], text['xaxis_calls_outgoing'], text['xaxis_calls_total']]
     data = {
-        'Call Type': labels,
-        'Average Duration (seconds)': call_durations
+        text['xaxis_call_type']: labels,
+        text['yaxis_duration']: call_durations
     }
     df = pd.DataFrame(data)
-    fig3 = px.bar(df, x='Call Type', y='Average Duration (seconds)', color='Call Type',
+    fig3 = px.bar(df, x=text['xaxis_call_type'], y=text['yaxis_duration'], color=text['xaxis_call_type'],
                   color_discrete_sequence=['lightblue', 'lightblue', 'lightblue'])
     fig3.update_layout(
-        xaxis_title='Call Type',
-        yaxis_title='Average Duration (seconds)',
+        xaxis_title=text['xaxis_call_type'],
+        yaxis_title=text['yaxis_duration'],
         title_text='',
         xaxis_tickfont_size=16,
         yaxis_tickfont_size=16,
@@ -75,7 +135,7 @@ def chart_generation(stats):
         showlegend=False
     )
     figures.append(fig3)
-    titles.append('Average Call Duration Statistics')
+    titles.append(text['average_duration_title'])
 
     # 3. Call Apps Usage (Stacked Bar Chart)
     apps_data = stats['call_apps']
@@ -83,50 +143,50 @@ def chart_generation(stats):
     incoming_calls = [apps_data[app]['incoming'] for app in apps]
     outgoing_calls = [apps_data[app]['outgoing'] for app in apps]
     data = {
-        'Apps': apps,
-        'Incoming Calls': incoming_calls,
-        'Outgoing Calls': outgoing_calls
+        text['xaxis_apps']: apps,
+        text['xaxis_calls_incoming']: incoming_calls,
+        text['xaxis_calls_outgoing']: outgoing_calls
     }
     df = pd.DataFrame(data)
     fig4 = go.Figure()
-    fig4.add_trace(go.Bar(name='Incoming Calls', x=df['Apps'], y=df['Incoming Calls'], marker_color='skyblue'))
-    fig4.add_trace(go.Bar(name='Outgoing Calls', x=df['Apps'], y=df['Outgoing Calls'], marker_color='salmon'))
+    fig4.add_trace(go.Bar(name=text['xaxis_calls_incoming'], x=df[text['xaxis_apps']], y=df[text['xaxis_calls_incoming']], marker_color='skyblue'))
+    fig4.add_trace(go.Bar(name=text['xaxis_calls_outgoing'], x=df[text['xaxis_apps']], y=df[text['xaxis_calls_outgoing']], marker_color='salmon'))
     fig4.update_layout(
         barmode='stack',
-        xaxis_title='Apps',
-        yaxis_title='Number of Calls',
+        xaxis_title=text['xaxis_apps'],
+        yaxis_title=text['xaxis_calls'],
         title_text='',
         xaxis_tickfont_size=16,
         yaxis_tickfont_size=16,
         xaxis_title_font_size=18,
         yaxis_title_font_size=18,
-        legend_title_text='Call Type',
+        legend_title_text=text['xaxis_call_type'],
         legend_font_size=16,
         showlegend=True
     )
     figures.append(fig4)
-    titles.append('Call Apps Usage (Stacked Bar Chart)')
+    titles.append(text['stacked_bar_title'])
 
     # Pie chart for apps
     total_calls_per_app = {app: apps_data[app]['incoming'] + apps_data[app]['outgoing'] for app in apps}
     labels = list(total_calls_per_app.keys())
     sizes = list(total_calls_per_app.values())
     data = {
-        'App': labels,
-        'Total Calls': sizes
+        text['xaxis_app']: labels,
+        text['xaxis_calls_total']: sizes
     }
     df = pd.DataFrame(data)
-    fig5 = px.pie(df, values='Total Calls', names='App',
+    fig5 = px.pie(df, values=text['xaxis_calls_total'], names=text['xaxis_app'],
                   hole=.3,
                   color_discrete_sequence=px.colors.qualitative.Pastel)
     fig5.update_traces(textposition='inside',
                        texttemplate='%{percent:.1%}<br>(%{value})')
     fig5.update_layout(
         title_text='',
-        legend_title_text='App',
+        legend_title_text=text['xaxis_app'],
     )
     figures.append(fig5)
-    titles.append('Call Apps Usage (Pie Chart)')
+    titles.append(text['app_pie_chart_title'])
 
     # 4. Key Contacts (Horizontal Bar Chart)
     if len(stats['key_contacts']) != 0:
@@ -136,15 +196,15 @@ def chart_generation(stats):
         top_contacts = contacts[:10]
         top_counts = contact_counts[:10]
         data = {
-            'Contacts': top_contacts,
-            'Number of Calls': top_counts
+            text['yaxis_contacts']: top_contacts,
+            text['xaxis_calls']: top_counts
         }
         df = pd.DataFrame(data)
-        fig6 = px.bar(df, x='Number of Calls', y='Contacts', orientation='h', color='Number of Calls',
+        fig6 = px.bar(df, x=text['xaxis_calls'], y=text['yaxis_contacts'], orientation='h', color=text['xaxis_calls'],
                       color_continuous_scale='Greens')
         fig6.update_layout(
-            xaxis_title='Number of Calls',
-            yaxis_title='Contacts',
+            xaxis_title=text['xaxis_calls'],
+            yaxis_title=text['yaxis_contacts'],
             title_text='',
             xaxis_tickfont_size=16,
             yaxis_tickfont_size=16,
@@ -156,24 +216,24 @@ def chart_generation(stats):
         # Order the bars from longest at the top to shortest at the bottom
         fig6.update_yaxes(categoryorder='total descending')
         figures.append(fig6)
-        titles.append('Top 10 Key Contacts by Number of Calls (Bar Chart)')
+        titles.append(text['key_contacts_bar_title'])
 
         # Pie chart for contacts
         data = {
-            'Contacts': top_contacts,
-            'Number of Calls': top_counts
+            text['yaxis_contacts']: top_contacts,
+            text['xaxis_calls']: top_counts
         }
         df = pd.DataFrame(data)
-        fig7 = px.pie(df, values='Number of Calls', names='Contacts', hole=.3,
+        fig7 = px.pie(df, values=text['xaxis_calls'], names=text['yaxis_contacts'], hole=.3,
                       color_discrete_sequence=px.colors.qualitative.Pastel)
         fig7.update_traces(textposition='inside',
                            texttemplate='%{percent:.1%}<br>(%{value})')
         fig7.update_layout(
             title_text='',
-            legend_title_text='Contacts',
+            legend_title_text=text['yaxis_contacts'],
         )
         figures.append(fig7)
-        titles.append('Top 10 Key Contacts by Number of Calls (Pie Chart)')
+        titles.append(text['key_contacts_pie_title'])
 
     # 5. Most Active Periods of Communication (Heatmap)
     if len(stats['activity_periods']) != 0:
@@ -185,20 +245,20 @@ def chart_generation(stats):
         # For the heatmap, drop 'total_calls'
         activity_data = activity_data.drop(columns='total_calls')
         activity_data.reset_index(inplace=True)
-        activity_data_melt = activity_data.melt(id_vars='index', var_name='Time of Day', value_name='Calls')
+        activity_data_melt = activity_data.melt(id_vars='index', var_name=text['xaxis_time'], value_name=text['calls'])
 
-        fig8 = px.density_heatmap(activity_data_melt, x='Time of Day', y='index', z='Calls',
+        fig8 = px.density_heatmap(activity_data_melt, x=text['xaxis_time'], y='index', z=text['calls'],
                                   color_continuous_scale='Viridis')
         fig8.update_layout(
-            xaxis_title='Time of Day',
-            yaxis_title='Date',
+            xaxis_title=text['xaxis_time'],
+            yaxis_title=text['xaxis_date'],
             title_text='',
             xaxis_tickfont_size=16,
             yaxis_tickfont_size=16,
             xaxis_title_font_size=18,
             yaxis_title_font_size=18,
             coloraxis_colorbar=dict(
-                title='Calls',
+                title=text['calls'],
                 lenmode='fraction',
                 len=1.0,  # Set the length of the colorbar to 100% of the subplot height
                 yanchor='middle',
@@ -206,14 +266,14 @@ def chart_generation(stats):
             )
         )
         figures.append(fig8)
-        titles.append('Most Active Periods of Communication (Heatmap)')
+        titles.append(text['heatmap_title'])
 
         # 6. Total Calls per Day (Line Chart)
         line_data.reset_index(inplace=True)
         fig9 = px.line(line_data, x='index', y='total_calls')
         fig9.update_layout(
-            xaxis_title='Date',
-            yaxis_title='Total Calls',
+            xaxis_title=text['xaxis_date'],
+            yaxis_title=text['xaxis_calls_total'],
             title_text='',
             xaxis_tickfont_size=12,
             yaxis_tickfont_size=12,
@@ -223,7 +283,7 @@ def chart_generation(stats):
         fig9.update_traces(mode='lines+markers', marker=dict(size=6, color='royalblue'), line=dict(color='royalblue'))
         fig9.update_xaxes(tickangle=45, tickformat='%Y-%m-%d')
         figures.append(fig9)
-        titles.append('Total Calls per Day (Line Chart)')
+        titles.append(text['line_chart_title'])
 
     # 7. Country Activity (Donut Chart)
     if 'country_activity' in stats and len(stats['country_activity']) != 0:
@@ -240,20 +300,20 @@ def chart_generation(stats):
 
         countries, counts = zip(*top_countries)
         data = {
-            'Country': countries,
-            'Number of Calls': counts
+            text['country']: countries,
+            text['xaxis_calls']: counts
         }
         df = pd.DataFrame(data)
-        fig10 = px.pie(df, values='Number of Calls', names='Country', hole=.3,
+        fig10 = px.pie(df, values=text['xaxis_calls'], names=text['country'], hole=.3,
                        color_discrete_sequence=px.colors.qualitative.Pastel)
         fig10.update_traces(textposition='inside',
                             texttemplate='%{percent:.1%}<br>(%{value})')
         fig10.update_layout(
             title_text='',
-            legend_title_text='Country',
+            legend_title_text=text['country'],
         )
         figures.append(fig10)
-        titles.append('Calls by Country (Donut Chart)')
+        titles.append(text['country_donut_title'])
 
     # 8. City Activity (Donut Chart)
     if 'city_activity' in stats and len(stats['city_activity']) != 0:
@@ -270,20 +330,20 @@ def chart_generation(stats):
 
         cities, counts = zip(*top_cities)
         data = {
-            'City': cities,
-            'Number of Calls': counts
+            text['city']: cities,
+            text['xaxis_calls']: counts
         }
         df = pd.DataFrame(data)
-        fig11 = px.pie(df, values='Number of Calls', names='City', hole=.3,
+        fig11 = px.pie(df, values=text['xaxis_calls'], names=text['city'], hole=.3,
                        color_discrete_sequence=px.colors.qualitative.Pastel)
         fig11.update_traces(textposition='inside',
                             texttemplate='%{percent:.1%}<br>(%{value})')
         fig11.update_layout(
             title_text='',
-            legend_title_text='City',
+            legend_title_text=text['city'],
         )
         figures.append(fig11)
-        titles.append('Calls by City (Donut Chart)')
+        titles.append(text['city_donut_title'])
 
     # Determine specs based on trace types
     for fig in figures:
