@@ -239,7 +239,11 @@ def get_key_cities(data):
     city_call_counts = defaultdict(int)
     for call in data:
         if call['app'] != "unknown": continue
-        number = call['number'][1:]
+        if call['number'].startswith('+7'):
+            number=call['number'][2:]
+        elif call['number'].startswith('8'):
+            number=call['number'][1:]
+        else: continue
         matched_city = None
         for code in sorted(city_code_map.keys(), key=len, reverse=True):
             if number.startswith(code):
@@ -247,6 +251,7 @@ def get_key_cities(data):
                 break
         if matched_city:
             city_call_counts[matched_city] += 1
+            print(call['number'])
         else:
             city_call_counts['mobile_call'] += 1
     return city_call_counts

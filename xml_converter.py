@@ -52,8 +52,8 @@ def parse_xml_to_json(xml_path):
     return {"call_history": call_history}
 
 # File paths
-xml_file = r'C:\Users\timur\OneDrive\Рабочий стол\My\AITU project\Call_history_api\test_samsung.xml'
-output_json = r'C:\Users\timur\OneDrive\Рабочий стол\My\AITU project\Call_history_api\converted_call_history.json'
+xml_file = r'C:\Users\timur\OneDrive\Рабочий стол\My\AITU project\Call_history_api\Report.xml'
+output_json = r'C:\Users\timur\OneDrive\Рабочий стол\My\AITU project\Call_history_api\xiaomi_test.json'
 
 # Convert XML to JSON
 json_data = parse_xml_to_json(xml_file)
